@@ -1,0 +1,19 @@
+.div1 {
+    background-color: lightslategray;
+}
+
+.div1h4 {
+    font-size: 15px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.image {
+    height: 500px;
+    border-radius: 50px;
+
+}
+
+.heading_div {
+    width: 100%;
+}
